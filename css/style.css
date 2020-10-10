@@ -1,0 +1,23 @@
+body{
+    background-color: #f5f5dd;
+    text-align: center;
+
+}
+div{
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.pierwszy{
+  background-color: rgba(0,0,0,1);
+}
+.drugi{
+  background-color: rgba(0,0,0,0.8);
+}
+.trzeci{
+  background-color: rgba(0,0,0,0.4);
+}
+.czwarty{
+  background-color: rgba(0,0,0,0.2);
+}
